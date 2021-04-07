@@ -1,0 +1,35 @@
+﻿  adfgvx.cpp
+D:\Documents\College\Cryptology\Final\ADFGVX_Cipher\ADFGVX_Cipher\adfgvx.cpp(18,23): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\College\Cryptology\Final\ADFGVX_Cipher\ADFGVX_Cipher\adfgvx.cpp(36,23): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\College\Cryptology\Final\ADFGVX_Cipher\ADFGVX_Cipher\adfgvx.cpp(50,23): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\College\Cryptology\Final\ADFGVX_Cipher\ADFGVX_Cipher\adfgvx.cpp(77,25): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\College\Cryptology\Final\ADFGVX_Cipher\ADFGVX_Cipher\adfgvx.cpp(95,23): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\College\Cryptology\Final\ADFGVX_Cipher\ADFGVX_Cipher\adfgvx.cpp(118,27): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\College\Cryptology\Final\ADFGVX_Cipher\ADFGVX_Cipher\adfgvx.cpp(139,23): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\College\Cryptology\Final\ADFGVX_Cipher\ADFGVX_Cipher\adfgvx.cpp(141,27): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\College\Cryptology\Final\ADFGVX_Cipher\ADFGVX_Cipher\adfgvx.cpp(154,23): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\College\Cryptology\Final\ADFGVX_Cipher\ADFGVX_Cipher\adfgvx.cpp(156,27): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\College\Cryptology\Final\ADFGVX_Cipher\ADFGVX_Cipher\adfgvx.cpp(158,36): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\College\Cryptology\Final\ADFGVX_Cipher\ADFGVX_Cipher\adfgvx.cpp(167,27): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\College\Cryptology\Final\ADFGVX_Cipher\ADFGVX_Cipher\adfgvx.cpp(169,35): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\College\Cryptology\Final\ADFGVX_Cipher\ADFGVX_Cipher\adfgvx.cpp(174,14): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\College\Cryptology\Final\ADFGVX_Cipher\ADFGVX_Cipher\adfgvx.cpp(178,13): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\College\Cryptology\Final\ADFGVX_Cipher\ADFGVX_Cipher\adfgvx.cpp(194,23): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\College\Cryptology\Final\ADFGVX_Cipher\ADFGVX_Cipher\adfgvx.cpp(212,23): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\College\Cryptology\Final\ADFGVX_Cipher\ADFGVX_Cipher\adfgvx.cpp(226,23): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\College\Cryptology\Final\ADFGVX_Cipher\ADFGVX_Cipher\adfgvx.cpp(253,25): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\College\Cryptology\Final\ADFGVX_Cipher\ADFGVX_Cipher\adfgvx.cpp(272,23): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\College\Cryptology\Final\ADFGVX_Cipher\ADFGVX_Cipher\adfgvx.cpp(274,27): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\College\Cryptology\Final\ADFGVX_Cipher\ADFGVX_Cipher\adfgvx.cpp(293,23): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\College\Cryptology\Final\ADFGVX_Cipher\ADFGVX_Cipher\adfgvx.cpp(294,27): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\College\Cryptology\Final\ADFGVX_Cipher\ADFGVX_Cipher\adfgvx.cpp(295,23): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\College\Cryptology\Final\ADFGVX_Cipher\ADFGVX_Cipher\adfgvx.cpp(295,45): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\College\Cryptology\Final\ADFGVX_Cipher\ADFGVX_Cipher\adfgvx.cpp(295,126): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\College\Cryptology\Final\ADFGVX_Cipher\ADFGVX_Cipher\adfgvx.cpp(299,23): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\College\Cryptology\Final\ADFGVX_Cipher\ADFGVX_Cipher\adfgvx.cpp(300,27): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\College\Cryptology\Final\ADFGVX_Cipher\ADFGVX_Cipher\adfgvx.cpp(307,23): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\College\Cryptology\Final\ADFGVX_Cipher\ADFGVX_Cipher\adfgvx.cpp(314,26): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\College\Cryptology\Final\ADFGVX_Cipher\ADFGVX_Cipher\adfgvx.cpp(316,35): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\College\Cryptology\Final\ADFGVX_Cipher\ADFGVX_Cipher\adfgvx.cpp(321,14): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\College\Cryptology\Final\ADFGVX_Cipher\ADFGVX_Cipher\adfgvx.cpp(325,13): warning C4018: '<': signed/unsigned mismatch
+  ADFGVX_Cipher.vcxproj -> D:\Documents\College\Cryptology\Final\ADFGVX_Cipher\Debug\ADFGVX_Cipher.exe

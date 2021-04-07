@@ -1,0 +1,16 @@
+CIS 4362 - Intro to Cryptology
+Ex01
+Andrew Helms
+9/16/20
+
+I approached all of the problems in a similar way. I first converted all uppercase letters to lowercase, then processed the string.
+
+For the strip function, I used nested for loops to do the formatting and used a counter to keep track of the current index of the input string. I processed characters individually, deciding whether to keep them or not.
+
+The rotation cipher and substitution cipher were handled very similarly. I processed the characters one at a time, finding their index in a input characters reference string. If they weren't contained in the reference string, they weren't processed. The index of the characters found in the reference string were then used to find the corresponding character in the output characters reference string. In the case of the rotation cipher, is was just the uppercase version of the input characters string, and in the case of the substituion cipher, it was the key that was provided. The main difference between the two is that the rotation cipher shifts the index by the specified key, and then does modulo division to ensure it lies within the bounds of the output string length.
+
+To test each program, I just used the example provided for each one and made sure my output matched the output of the example.
+
+The main challenge I faced was with the rotation cipher. Modulo division didn't seem to be working properly for negative numbers, so I simply added 37 to the key to ensure it wouldn't go negative.
+
+I refreshed myself on processing strings while doing this assignment, and also learned a lot about input/output redirection in C++.

@@ -1,0 +1,16 @@
+CIS 4362 - Introduction to Cryptology
+Ex02
+Andrew Helms
+9/28/20
+
+I approached all of the problems is a similar way. I first processed the input string to make it easier to do the program operation, tested it for validity, and then processed it accordingly. Lastly, in all of my programs, I separated the string into groups 5 characters, and then those groups into 10 for each line.
+
+For the pad program, I first converted all uppercase characters to lowercase and removed whitespace and other nonstandard characters. Then I used the length of this processed string to calculate the number of padding characters that would be needed. I used a reference string to convert the number into the correct character, by using the string find function to find the index of the character in the reference string. I then padded the string with the correct number of the appropriate padding character. Then I added the spacing required for proper output as described above.
+
+For the unpad program, I checked to see if the last character in the input string was in a the reference string, the same one that was used for the pad program. If it wasn't, I threw the "Invalid padding" error. If it was, I checked to see if the appropriate number of preceding characters were the same. If they weren't, I threw the "Invalid padding" error and removed them if they were valid. Then the string was processed and it just needed to be formatted. I first removed all nonstandard characters including whitespace and then processed it into groups the same way I did in the pad program.
+
+For the transpose program, I first verified that the key was valid and converted it to an array of integers. Then I checked if the user input length was valid and throwing "Invalid input length" if it wasn't. Then I processed the string with nested loops, first iterating through the groups of the key size, then iterating by character of the input string within the groups, then iterating through the key to see if the key index matched the current character index within the group. If it did match, I would add that character to the output string and move on to the next character. Then I processed it into groups in the same way I did for the other two programs.
+
+The only known bug is that the input redirection was adding a line break to the end of the input string. I checked to make sure the file didn't contain a line break but it still was there in the program. I decided to patch this by removing the last character of the input string if it is a line break. This isn't optimal since it could process an invalid input as valid, but it was the only way I could think of to solve the issue.
+
+I got more practice working with strings in C++, and using input/output redirection. The logic of these programs was fairly simple, but getting it to process the input correctly and output as specified everytime could be challenging at times.
